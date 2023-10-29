@@ -1,0 +1,14 @@
+C:\Users\Salaheddine\source\repos\TerminalChat\TerminalChat\bin\Debug\net7.0\TerminalChat.exe
+C:\Users\Salaheddine\source\repos\TerminalChat\TerminalChat\bin\Debug\net7.0\TerminalChat.deps.json
+C:\Users\Salaheddine\source\repos\TerminalChat\TerminalChat\bin\Debug\net7.0\TerminalChat.runtimeconfig.json
+C:\Users\Salaheddine\source\repos\TerminalChat\TerminalChat\bin\Debug\net7.0\TerminalChat.dll
+C:\Users\Salaheddine\source\repos\TerminalChat\TerminalChat\bin\Debug\net7.0\TerminalChat.pdb
+C:\Users\Salaheddine\source\repos\TerminalChat\TerminalChat\obj\Debug\net7.0\TerminalChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salaheddine\source\repos\TerminalChat\TerminalChat\obj\Debug\net7.0\TerminalChat.AssemblyInfoInputs.cache
+C:\Users\Salaheddine\source\repos\TerminalChat\TerminalChat\obj\Debug\net7.0\TerminalChat.AssemblyInfo.cs
+C:\Users\Salaheddine\source\repos\TerminalChat\TerminalChat\obj\Debug\net7.0\TerminalChat.csproj.CoreCompileInputs.cache
+C:\Users\Salaheddine\source\repos\TerminalChat\TerminalChat\obj\Debug\net7.0\TerminalChat.dll
+C:\Users\Salaheddine\source\repos\TerminalChat\TerminalChat\obj\Debug\net7.0\refint\TerminalChat.dll
+C:\Users\Salaheddine\source\repos\TerminalChat\TerminalChat\obj\Debug\net7.0\TerminalChat.pdb
+C:\Users\Salaheddine\source\repos\TerminalChat\TerminalChat\obj\Debug\net7.0\TerminalChat.genruntimeconfig.cache
+C:\Users\Salaheddine\source\repos\TerminalChat\TerminalChat\obj\Debug\net7.0\ref\TerminalChat.dll
